@@ -1,0 +1,1 @@
+cmd_/home/student/pa2-10445108/driver/scull.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/student/pa2-10445108/driver/scull.ko /home/student/pa2-10445108/driver/scull.o /home/student/pa2-10445108/driver/scull.mod.o ;  true
